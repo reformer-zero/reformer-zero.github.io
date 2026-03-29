@@ -1,0 +1,12 @@
+# ~/personal/.gitconfig.rfrmr
+ 
+[user]
+email = onipelumi632@gmail.com
+name = reformer-zero
+ 
+[github]
+user = "reformer-zero"
+ 
+[core]
+sshCommand = "ssh -i ~/.ssh/git-reformer-key"
+
