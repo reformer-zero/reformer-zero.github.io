@@ -50,7 +50,7 @@ params:
 
     label:
         text: "reformer-zero"
-        icon: /favicon.ico
+        icon: /sunset-logo.webp
         iconHeight: 35
 
     # profile-mode
