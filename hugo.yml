@@ -73,8 +73,8 @@ params:
         Content: Welcome to my blog
 
     socialIcons:
-        - name: twitter
-          url: "https://twitter.com/trashtrash28507"
+        - name: x
+          url: "https://x.com/reformerzer0"
         - name: github
           url: "https://github.com/reformer-zero"
 
