@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/admin/</loc>
+    <loc>https://reformer-zero.github.io/admin/</loc>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://reformer-zero.github.io/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://reformer-zero.github.io/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://reformer-zero.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://reformer-zero.github.io/posts/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://reformer-zero.github.io/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://reformer-zero.github.io/search/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://reformer-zero.github.io/tags/</loc>
   </url>
 </urlset>
